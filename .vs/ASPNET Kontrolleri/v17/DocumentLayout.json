@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matrix_2530\\Documents\\GitHub\\ASPNET-Kontrolleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3600A4F1-0A3E-48C2-B586-6751DA3847EB}|ASPNET Kontrolleri\\ASPNET Kontrolleri.csproj|c:\\users\\matrix_2530\\documents\\github\\aspnet-kontrolleri\\aspnet kontrolleri\\button kullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3600A4F1-0A3E-48C2-B586-6751DA3847EB}|ASPNET Kontrolleri\\ASPNET Kontrolleri.csproj|solutionrelative:aspnet kontrolleri\\button kullanimi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button Kullanimi.aspx",
+              "DocumentMoniker": "C:\\Users\\Matrix_2530\\Documents\\GitHub\\ASPNET-Kontrolleri\\ASPNET Kontrolleri\\Button Kullanimi.aspx",
+              "RelativeDocumentMoniker": "ASPNET Kontrolleri\\Button Kullanimi.aspx",
+              "ToolTip": "C:\\Users\\Matrix_2530\\Documents\\GitHub\\ASPNET-Kontrolleri\\ASPNET Kontrolleri\\Button Kullanimi.aspx",
+              "RelativeToolTip": "ASPNET Kontrolleri\\Button Kullanimi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-09T22:05:32.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
