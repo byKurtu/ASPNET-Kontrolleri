@@ -67,10 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BasitKullaniciGiris.aspx" />
     <Content Include="Button Kullanimi.aspx" />
+    <Content Include="CheckBoxRadioButtonKontrolleri.aspx" />
+    <Content Include="CokBasitHesapMakinesi.aspx" />
+    <Content Include="css\DersOdevStil.css" />
+    <Content Include="css\GirisKayitFormStil.css" />
+    <Content Include="css\OgrenciKayitFormuStil.css" />
+    <Content Include="odevler\DersOdev.aspx" />
+    <Content Include="DropDownListKontrolleri.aspx" />
+    <Content Include="KayıtOl.aspx" />
+    <Content Include="Label Kullanimi.aspx" />
+    <Content Include="OgrenciKayitFormu.aspx" />
+    <Content Include="TextBox Kullanimi.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasitKullaniciGiris.aspx.cs">
+      <DependentUpon>BasitKullaniciGiris.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BasitKullaniciGiris.aspx.designer.cs">
+      <DependentUpon>BasitKullaniciGiris.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Button Kullanimi.aspx.cs">
       <DependentUpon>Button Kullanimi.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -78,7 +97,63 @@
     <Compile Include="Button Kullanimi.aspx.designer.cs">
       <DependentUpon>Button Kullanimi.aspx</DependentUpon>
     </Compile>
+    <Compile Include="CheckBoxRadioButtonKontrolleri.aspx.cs">
+      <DependentUpon>CheckBoxRadioButtonKontrolleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CheckBoxRadioButtonKontrolleri.aspx.designer.cs">
+      <DependentUpon>CheckBoxRadioButtonKontrolleri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CokBasitHesapMakinesi.aspx.cs">
+      <DependentUpon>CokBasitHesapMakinesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CokBasitHesapMakinesi.aspx.designer.cs">
+      <DependentUpon>CokBasitHesapMakinesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="odevler\DersOdev.aspx.cs">
+      <DependentUpon>DersOdev.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="odevler\DersOdev.aspx.designer.cs">
+      <DependentUpon>DersOdev.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DropDownListKontrolleri.aspx.cs">
+      <DependentUpon>DropDownListKontrolleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DropDownListKontrolleri.aspx.designer.cs">
+      <DependentUpon>DropDownListKontrolleri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KayıtOl.aspx.cs">
+      <DependentUpon>KayıtOl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KayıtOl.aspx.designer.cs">
+      <DependentUpon>KayıtOl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Label Kullanimi.aspx.cs">
+      <DependentUpon>Label Kullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Label Kullanimi.aspx.designer.cs">
+      <DependentUpon>Label Kullanimi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciKayitFormu.aspx.cs">
+      <DependentUpon>OgrenciKayitFormu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OgrenciKayitFormu.aspx.designer.cs">
+      <DependentUpon>OgrenciKayitFormu.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextBox Kullanimi.aspx.cs">
+      <DependentUpon>TextBox Kullanimi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TextBox Kullanimi.aspx.designer.cs">
+      <DependentUpon>TextBox Kullanimi.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

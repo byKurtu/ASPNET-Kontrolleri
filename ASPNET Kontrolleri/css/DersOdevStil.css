@@ -1,0 +1,73 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.form-container {
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    width: 320px;
+    text-align: center;
+}
+
+    .form-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+.satir {
+    margin-bottom: 18px;
+    text-align: left;
+}
+
+.metinKutu {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    transition: border-color .3s;
+}
+
+    .metinKutu:focus {
+        border-color: #4a90e2;
+        outline: none;
+    }
+
+.girisButon {
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color .3s;
+}
+
+    .girisButon:hover {
+        background-color: #357abd;
+    }
+
+.mesaj {
+    margin-top: 15px;
+    color: green;
+    display: block;
+}
+
+.satir strong {
+    display: block;
+    margin-bottom: 6px;
+    color: #444;
+}
+
+.satir asp:CheckBox {
+    margin-right: 6px;
+}

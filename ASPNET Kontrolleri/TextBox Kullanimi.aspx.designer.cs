@@ -11,7 +11,7 @@ namespace ASPNET_Kontrolleri
 {
 
 
-    public partial class Button_Kullanimi
+    public partial class TextBox_Kullanimi
     {
 
         /// <summary>
@@ -24,30 +24,21 @@ namespace ASPNET_Kontrolleri
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// btn_tikla control.
+        /// tb_metin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_tikla;
+        protected global::System.Web.UI.WebControls.TextBox tb_metin;
 
         /// <summary>
-        /// btn_degistir control.
+        /// btn_titleDeğiştir control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btn_degistir;
-
-        /// <summary>
-        /// lbtn_tikla control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton lbtn_tikla;
+        protected global::System.Web.UI.WebControls.Button btn_titleDeğiştir;
     }
 }
