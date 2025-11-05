@@ -1,0 +1,57 @@
+﻿body {
+    font-family: Calibri;
+}
+
+.tasiyici {
+    border: 1px solid #9200a8;
+    width: 1200px;
+    /* height:30px;*/
+    margin: 0 auto;
+}
+
+.baslik {
+    padding: 10px;
+    background-color: #ffc2fc;
+    color: #9200a8;
+}
+
+.icerik {
+    color: #9200a8;
+}
+
+.satir {
+    padding: 10px 0;
+}
+
+.sol {
+    width: 560px;
+    float: left;
+    margin: 20px;
+}
+
+.sag {
+    width: 560px;
+    float: left;
+    margin: 20px;
+}
+
+.kamil {
+    width: 540px;
+    padding: 7px;
+}
+
+.cemal {
+    width: 560px;
+    padding: 7px;
+}
+
+.kaydetButon {
+    width: 100%;
+    border: 1px solid #ffc2fc;
+    border-radius: 7px;
+    padding: 15px;
+    background-color: #9200a8;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}

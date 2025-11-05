@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Kayıt Formu</title>
-    <link href="css/DersOdevStil.css" rel="stylesheet" />
+    <link href="../css/DersOdevStil.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -49,7 +49,12 @@
             <div class="satir">
                 <asp:CheckBox ID="chk_onay" runat="server" Text="Bilgilerimin doğru olduğunu onaylıyorum" />
             </div>
-
+            <div>
+                <asp:Button ID="btn_giris" runat="server" Text="Giriş" OnClick="btn_giris_Click" CssClass="girisButon" />
+            </div>
+            <div>
+                <asp:Label ID="lbl_sonuc" runat="server" ></asp:Label>
+            </div>
         </div>
     </form>
 </body>
